@@ -35,7 +35,7 @@ User click on photo button and camera launches
 
 Plugin: Camera, Share, keyboard, Splash screen, status-bar
 
-Added plugins and functinality 
+Added plugins and functionality 
 
 @capacitor/app@4.1.1
        @capacitor/camera@4.1.4
