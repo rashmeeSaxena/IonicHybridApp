@@ -1,3 +1,6 @@
+B9IS124 Web and Mobile Technologies (B9IS124_2223_TMD1S)
+Student ID: 10632656
+Student Name: Rashmee Saxena
 
 Developed Android application using Ionic Framework with Angular 
 Hybrid mobile application for android platform is buid on the pharmacy 
